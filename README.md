@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Renzo Tincopa</h1>
 <h3 align="center">A passionate blockchain developer and community builder</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinconomad&label=Profile%20views&color=0e75b6&style=flat" alt="tinconomad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tinconomad" target="blank"><img src="https://img.shields.io/twitter/follow/tinconomad?logo=twitter&style=for-the-badge" alt="tinconomad" /></a> </p>
+<div align="center"> 
+  <p>
+    <a><img src="https://img.shields.io/twitter/follow/tinconomad?logo=twitter&style=for-the-badge" alt="tinconomad" /></a>
+    <a href="https://www.linkedin.com/in/tinconomad"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://www.instagram.com/tinconomad/"><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white"/></a>
+    <a href="https://twitter.com/tinconomad"><img src="https://img.shields.io/badge/Twitter-skyblue?logo=Twitter&logoColor=white"/></a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on **Freelance projects**
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif">
 
-- 🌱 I’m currently learning **Rust and a bit of Solana**
+- 🔭 I’m currently working on **Freelance smart contract projects**
 
-- 👯 I’m looking to collaborate on **Rust project. Polkadot and Near Protocol**
+- 🌱 I’m currently learning **Astro and Wagmi**
 
-- 🤝 I’m looking for help with **Community building**
+- 👯 I’m looking to collaborate on **Web3, desentraliced projects. Solidity, React & Astro proyects**
+
+- 🤝 I’m looking for help with **Develop decentralazed web products**
 
 - 👨‍💻 All of my projects are available at [github.com/TincoNomad](github.com/TincoNomad)
 
@@ -21,9 +28,15 @@
 
 - 📫 How to reach me **@tinconomad**
 
-- 📄 Know about my experiences [I works with communities for the last 7 years. I been programing for 1 year](I works with communities for the last 7 years. I been programing for 1 year)
+- 📄 Web3 Smart Contract Developer: Solidity, Substrate, Rust Expert and Community Advocate
 
-- ⚡ Fun fact **I love Rubik Cubes**
+"To reshape our world, we must reshape the way we approach business." This doesn't imply that startups should sacrifice profits; in fact, it's quite the opposite. The true power lies in fostering genuine communities and embracing an inclusive philosophy, like some of the public good projects on the blockchain protocols.
+
+I'm actively seeking partnerships with startups that are genuinely committed to making a positive impact on the world, not just their bottom line. I'm eager to collaborate, share insights, and embrace challenges. Moreover, I'm more than willing to share the wealth of knowledge I've accumulated over more than a decade of extraordinary experiences. From bicycling across Latin America to performing as a circus acrobat, and engaging with diverse communities, including sustainable projects, I've acquired a unique perspective on human development and software.
+
+Are you ready to embark on the journey of creating a better world together? Reach out to
+
+- ⚡ Fun fact **I love Rubik Cubes, Backpacking, Cycling & Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
