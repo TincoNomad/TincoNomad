@@ -32,8 +32,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
-<a href="href=mailto:renzotincopa@icloud.com?"><imag src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
+  <a href="href=mailto:renzotincopa@icloud.com?"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
