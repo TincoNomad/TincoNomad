@@ -32,9 +32,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tinconomad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tinconomad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renzo-tincopa-88b188204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzo-tincopa-88b188204" height="30" width="40" /></a>
-<a href="https://instagram.com/tinconomad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinconomad" height="30" width="40" /></a>
+<a><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
+<a href="href=mailto:renzotincopa@icloud.com?"><imag src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +43,7 @@
 
 I'm actively seeking partnerships with startups that are genuinely committed to making a positive impact on the world, not just their bottom line. I'm eager to collaborate, share insights, and embrace challenges. Moreover, I'm more than willing to share the wealth of knowledge I've accumulated over more than a decade of extraordinary experiences. From bicycling across Latin America to performing as a circus acrobat, and engaging with diverse communities, including sustainable projects, I've acquired a unique perspective on human development and software.
 
-Are you ready to embark on the journey of creating a better world together? Reach out to
+Are you ready to embark on the journey of creating a better world together? Reach out at me
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinconomad&show_icons=true&locale=en&layout=compact" alt="tinconomad" /></p>
 
