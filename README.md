@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Astro and Wagmi**
 
-- 👯 I’m looking to collaborate on **Web3, desentraliced projects. Solidity, React & Astro proyects**
+- 👯 I’m looking to collaborate on **Web3, decentralized projects. Solidity, React & Astro proyects**
 
 - 🤝 I’m looking for help with **Develop decentralazed web products**
 
