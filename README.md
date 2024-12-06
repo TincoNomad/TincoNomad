@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Astro and React**
 
-- 👯 I’m looking to collaborate on **Decentralized & open source projects. Solidity, Stacks, Rust & Python proyects**
+- 👯 I’m looking to collaborate on **Decentralized & open source projects**
 
 - 🤝 I’m looking for help with **Develop decentralazed web products**
 
