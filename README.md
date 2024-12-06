@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **Freelance smart contract projects**
 
-- 🌱 I’m currently learning **Astro and Wagmi**
+- 🌱 I’m currently learning **Astro and React**
 
-- 👯 I’m looking to collaborate on **Web3, decentralized & open source projects. Solidity, Stacks, Rust & Python proyects**
+- 👯 I’m looking to collaborate on **Decentralized & open source projects. Solidity, Stacks, Rust & Python proyects**
 
 - 🤝 I’m looking for help with **Develop decentralazed web products**
 
