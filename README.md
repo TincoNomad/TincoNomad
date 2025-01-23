@@ -14,7 +14,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif">
 
-- 🔭 I’m currently working on **Freelance smart contract projects**
+- 🚀 I’m proud of this proyect [**Django discord trivia bot**](https://github.com/TincoNomad/dijango-trivia-discord-bot)
+
+- 🔭 I’m currently working on **Freelance projects**
 
 - 🌱 I’m currently learning **Astro and React**
 
