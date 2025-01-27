@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renzo Tincopa</h1>
-<h3 align="center">A passionate blockchain developer and community builder</h3>
+<h3 align="center">Backend developer with no fear of CSS</h3>
 
 <div align="center"> 
   <p>
