@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renzo Tincopa</h1>
-<h3 align="center">Backend developer with no fear of CSS</h3>
+<h3 align="center">
+🛠️ Software Blacksmith | 🐍 Django Backend / Full-Stack Developer<br/>
+🦀 Rust & 🔺 Web3 (learning)
+</h3>
 
 <div align="center"> 
   <p>
@@ -10,51 +13,72 @@
   </p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinconomad&label=Profile%20views&color=0e75b6&style=flat" alt="tinconomad" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tinconomad&label=Profile%20views&color=0e75b6&style=flat" alt="tinconomad" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif">
+<img align="right" alt="Coding" width="380"
+src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif" />
 
-- 🚀 I’m proud of this proyect [**Django discord trivia bot**](https://github.com/TincoNomad/dijango-trivia-discord-bot)
+<h3>About</h3>
 
-- 🔭 I’m currently working on **Freelance projects**
+<p>
+I’m a backend-focused developer building real-world web platforms with Django and Python.
+</p>
 
-- 🌱 I’m currently learning **Astro and React**
+<p>
+I enjoy working end-to-end on products: from backend architecture and APIs to clean, usable interfaces.
+</p>
 
-- 👯 I’m looking to collaborate on **Decentralized & open source projects**
+<p>
+I’m currently transitioning into Rust and Web3 technologies, exploring more resilient and decentralized systems.
+</p>
 
-- 🤝 I’m looking for help with **Develop decentralazed web products**
+<p>
+I care about building technology that strengthens communities and long-term systems.
+</p>
 
-- 👨‍💻 All of my projects are available at [github.com/TincoNomad](github.com/TincoNomad)
+<h3>🚀 Featured projects</h3>
 
-- 💬 Ask me about **Philosophy**
+<ul>
+  <li>
+    <a href=https://github.com/TincoNomad/dijango-trivia-discord-bot><strong>Django Discord Trivia Bot</strong></a> – Full Django project with game logic and authentication
+  </li>
+  <li>
+    <a href=https://kynea.life/><strong>Kynea.life</strong></a> – Community-driven platform for dance classes (Django, APIs, integrations)
+  </li>
+</ul>
 
-- 📫 How to reach me **@tinconomad**
+<h3>🤝 Collaboration</h3>
 
-- ⚡ Fun fact **I love Rubik Cubes, Backpacking, Cycling & Gaming**
+<ul>
+  <li>Open to freelance and contract work</li>
+  <li>Interested in decentralized & open-source projects</li>
+  <li>Happy to collaborate with early-stage startups and communities</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3>🛠️ Languages & Tools</h3>
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
+</p>
+
+<h3>📫 Contact</h3>
+
 <p align="left">
   <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
   <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> </p>
-
-Software & Smart Contract Developer
-
-"To create a more loving world, we must create a more loving economy."
-
-Back-end Developer with a strong focus on Django, I specialize in building scalable, robust back-end systems. I am experienced in integrating emerging technologies, such as blockchain, to ensure products stay competitive in the Web 3.0 era. My expertise spans Python, Solidity, Clarity, Rust, and I am passionate about optimizing backend solutions that enhance overall user experience.
-
-With over a decade of diverse experiences—from cycling across Latin America to performing as a circus acrobat and working on sustainable projects—I bring a unique, human-centered approach to both software development and community building.
-
-I am actively seeking partnerships with forward-thinking startups that aim to create a positive impact in the world. Let’s connect and innovate together.
-
-Are you ready to embark on the journey of creating a better world together? Reach out to me.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinconomad&show_icons=true&locale=en&layout=compact" alt="tinconomad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinconomad&show_icons=true&locale=en" alt="tinconomad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinconomad&" alt="tinconomad" /></p>
+<p>
+<em>“Technology should not only work — it should matter.”</em>
+</p>
