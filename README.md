@@ -17,6 +17,15 @@
   <img src="https://komarev.com/ghpvc/?username=tinconomad&label=Profile%20views&color=ff6f00&style=flat" alt="tinconomad" />
 </p>
 
+### 🚀 Featured projects
+
+- [**pretty-curl**](https://github.com/TincoNomad/pretty-curl) – A curl-like CLI tool written in Rust, with WebSocket support and cross-platform release builds
+- [**actix-core-mcp**](https://github.com/TincoNomad) – Rust/Actix-web backend powering an MCP server, deployed with Supabase as the data layer
+- [**local-rag-docs**](https://github.com/TincoNomad/local-rag-docs) – Local RAG system (Ollama + ChromaDB) that keeps a coding assistant current on Rust, Actix-web, and Vue changelogs
+- [**Kynea.life**](https://kynea.life/) – Community-driven platform for dance classes (Django, APIs, integrations) — an earlier project, still alive and kicking
+
+---
+
 <img align="right" alt="Coding" width="380"
 src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif" />
 
@@ -32,13 +41,6 @@ I still reach for **Python** when it's the right tool — scraping, LangChain au
 
 > Engineering is the "how". I care just as much about the "why" — and who the system serves.
 
-### 🚀 Featured projects
-
-- [**pretty-curl**](https://github.com/TincoNomad/pretty-curl) – A curl-like CLI tool written in Rust, with WebSocket support and cross-platform release builds
-- [**actix-core-mcp**](https://github.com/TincoNomad) – Rust/Actix-web backend powering an MCP server, deployed with Supabase as the data layer
-- [**local-rag-docs**](https://github.com/TincoNomad/local-rag-docs) – Local RAG system (Ollama + ChromaDB) that keeps a coding assistant current on Rust, Actix-web, and Vue changelogs
-- [**Kynea.life**](https://kynea.life/) – Community-driven platform for dance classes (Django, APIs, integrations) — an earlier project, still alive and kicking
-
 ### 🤝 Collaboration
 
 - Open to freelance and contract work
@@ -46,29 +48,34 @@ I still reach for **Python** when it's the right tool — scraping, LangChain au
 - I collaborate best with teams that value clarity, ownership, and long-term thinking over hype
 - Happy to work with early-stage startups and communities building something that matters
 
-### 🛠️ Languages & Tools
+---
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vuejs.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+<div align="center"> 
+  
+  ### 🛠️ Languages & Tools
+  
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  </p>
 
-### 📫 Contact
 
-<p align="left">
-  <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
-  <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
-</p>
+  ### 📫 Contact
 
-<p align="center">
-<em>“Technology should not only work — it should matter.”</em>
-</p>
+  <p>
+    <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
+    <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
+  </p>
+
+
+  <p>
+  <em>“Technology should not only work — it should matter.”</em>
+  </p>
+</div>
