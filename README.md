@@ -26,8 +26,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380"
-src="https://i.pinimg.com/originals/ef/eb/33/efeb3364c2b064c794c4f876075c4c5a.gif" />
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/J9Od3lObYFNV1hXbMB/giphy.gif" />
 
 ### 🤹 About
 
