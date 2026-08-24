@@ -20,7 +20,7 @@
 ### 🚀 Featured projects
 
 - [**pretty-curl**](https://github.com/TincoNomad/pretty-curl) – A curl-like CLI tool written in Rust, with WebSocket support and cross-platform release builds
-- [**actix-core-mcp**](https://github.com/TincoNomad) – Rust/Actix-web backend powering an MCP server, deployed with Supabase as the data layer
+- [**actix-mcp-server**](https://github.com/TincoNomad/actix-mcp-server) – Rust/Actix-web backend powering an MCP server, deployed with Supabase as the data layer
 - [**local-rag-docs**](https://github.com/TincoNomad/local-rag-docs) – Local RAG system (Ollama + ChromaDB) that keeps a coding assistant current on Rust, Actix-web, and Vue changelogs
 - [**Kynea.life**](https://kynea.life/) – Community-driven platform for dance classes (Django, APIs, integrations) — an earlier project, still alive and kicking
 
