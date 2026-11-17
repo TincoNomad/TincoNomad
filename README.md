@@ -49,32 +49,33 @@ I still reach for **Python** when it's the right tool — scraping, LangChain au
 
 ---
 
-<div align="center"> 
-  
-  ### 🛠️ Languages & Tools
-  
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  </p>
+<div align="center">
 
+### 🛠️ Languages & Tools
 
-  ### 📫 Contact
+<p>
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
-  <p>
-    <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
-    <a href="mailto:renzotincopa@icloud.com?" subject="HTML link"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
-  </p>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TincoNomad&layout=compact&langs_count=8"/>
 
+### 📫 Contact
 
-  <p>
-  <em>“Technology should not only work — it should matter.”</em>
-  </p>
+<p>
+<a href="mailto:renzotincopa@icloud.com?subject=Let%27s%20build%20together"><img src="https://img.shields.io/badge/Let's_build_together-Reach_Out_%3E%3E-yellow?style=for-the-badge"/></a>
+<a href="mailto:renzotincopa@icloud.com"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=White&labelColor=white"/></a>
+</p>
+
+<p>
+<em>“Technology should not only work — it should matter.”</em>
+</p>
+
 </div>
