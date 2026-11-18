@@ -24,7 +24,7 @@
 - [**pcurl**](https://github.com/TincoNomad/pretty-curl) – HTTP pretty-printer for your terminal: colored status, aligned headers, indented JSON, plus collections and a WebSocket client. Cross-platform releases
 - [**grafik**](https://github.com/TincoNomad/grafik) – Turns HTML into PNG carousels and vertical video, and cuts a long recording into clips with ffmpeg
 
-Also: **[Kynea.life](https://kynea.life/)** – platform for a dance school, in production · **[actix-mcp-server](https://github.com/TincoNomad/actix-mcp-server)** – Rust MCP backend on Postgres · **[local-rag-docs](https://github.com/TincoNomad/local-rag-docs-)** – local RAG over Rust and Vue changelogs (Ollama + ChromaDB) · **[Wiracocha Labs](https://wiracochalabs.com)** – open research on decentralized AI
+**More:** [Wiracocha Labs](https://wiracochalabs.com) – open research on decentralized AI and communication infrastructure · [github.com/wiracocha-labs](https://github.com/wiracocha-labs)
 
 ---
 
