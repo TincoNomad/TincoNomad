@@ -19,10 +19,12 @@
 
 ### 🚀 Featured projects
 
-- [**pretty-curl**](https://github.com/TincoNomad/pretty-curl) – A curl-like CLI tool written in Rust, with WebSocket support and cross-platform release builds
-- [**actix-mcp-server**](https://github.com/TincoNomad/actix-mcp-server) – Rust/Actix-web backend powering an MCP server, deployed with Supabase as the data layer
-- [**local-rag-docs**](https://github.com/TincoNomad/local-rag-docs) – Local RAG system (Ollama + ChromaDB) that keeps a coding assistant current on Rust, Actix-web, and Vue changelogs
-- [**Kynea.life**](https://kynea.life/) – Community-driven platform for dance classes (Django, APIs, integrations) — an earlier project, still alive and kicking
+- [**yachay**](https://github.com/wiracocha-labs/yachay) – Rust CLI that tells you which local AI model fits your hardware. Prebuilt binaries for macOS, Linux and Windows
+- [**actix-crud-admin**](https://github.com/TincoNomad/actix-crud-admin) – Auto-generated CRUD admin for Actix-web 4 with pluggable auth. Published on crates.io, with docs, tests and a Diesel example
+- [**pcurl**](https://github.com/TincoNomad/pretty-curl) – HTTP pretty-printer for your terminal: colored status, aligned headers, indented JSON, plus collections and a WebSocket client. Cross-platform releases
+- [**grafik**](https://github.com/TincoNomad/grafik) – Turns HTML into PNG carousels and vertical video, and cuts a long recording into clips with ffmpeg
+
+Also: **[Kynea.life](https://kynea.life/)** – platform for a dance school, in production · **[actix-mcp-server](https://github.com/TincoNomad/actix-mcp-server)** – Rust MCP backend on Postgres · **[Wiracocha Labs](https://wiracochalabs.com)** – open research on decentralized AI
 
 ---
 
